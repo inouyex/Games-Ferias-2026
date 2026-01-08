@@ -1,0 +1,171 @@
+1️⃣ Jogo da Cobrinha (Snake)
+
+Clássico obrigatório.
+
+🔧 Você aprende:
+
+Arrays e structs
+
+Loops de game (game loop)
+
+Controle de input
+
+Colisão básica
+
+Lógica de movimentação
+
+🎮 Ideias de upgrade:
+
+Velocidade aumenta
+
+Sistema de pontuação
+
+Mapa com obstáculos
+
+2️⃣ Pong
+
+Simples, mas MUITO didático.
+
+🔧 Aprende:
+
+Estruturas para entidades (bola, paddle)
+
+Física básica (ângulo e velocidade)
+
+Detecção de colisão
+
+Estados do jogo (menu, jogo, game over)
+
+🎮 Upgrade:
+
+IA para o oponente
+
+Multiplayer local
+
+Efeitos sonoros
+
+3️⃣ Jogo de Adivinhação com Interface Gráfica
+
+Tipo “Guess the Number”, mas com janela.
+
+🔧 Aprende:
+
+Separar lógica do jogo e renderização
+
+Organização de código em múltiplos .c e .h
+
+Eventos de mouse/teclado
+
+🟡 NÍVEL INTERMEDIÁRIO (Onde você vira “dev de verdade”)
+4️⃣ Space Invaders
+
+Excelente pra C.
+
+🔧 Aprende:
+
+Vetores dinâmicos
+
+Gerenciamento de múltiplos inimigos
+
+Sistema de tiros
+
+Colisão em massa
+
+Animações simples
+
+🎮 Upgrade:
+
+Fases
+
+Diferentes tipos de inimigos
+
+Power-ups
+
+5️⃣ Plataforma 2D (estilo Mario)
+
+Esse aqui te prepara real pra engine.
+
+🔧 Aprende:
+
+Física (gravidade, pulo)
+
+Tilemap
+
+Sistema de colisão mais complexo
+
+Estados do jogador (idle, run, jump)
+
+🎮 Upgrade:
+
+Scroll de câmera
+
+Inimigos com IA simples
+
+Checkpoints
+
+6️⃣ Roguelike em ASCII ou 2D simples
+
+Muito usado pra aprender lógica profunda.
+
+🔧 Aprende:
+
+Matrizes
+
+Geração procedural
+
+Estruturas de dados
+
+Turnos vs tempo real
+
+🎮 Upgrade:
+
+Sistema de inventário
+
+Itens e atributos
+
+Save/load
+
+🔴 NÍVEL AVANÇADO (🔥 diferencia no currículo)
+7️⃣ Engine 2D Simples
+
+Não é só um jogo — é base de engine.
+
+🔧 Implementa:
+
+Entity Component System (ECS)
+
+Gerenciador de cenas
+
+Sistema de input
+
+Renderização desacoplada
+
+🎮 Depois cria:
+
+Um jogo usando sua própria engine
+
+8️⃣ Jogo Multiplayer Local (teclado ou controle)
+
+Mesmo sem rede, já é avançado.
+
+🔧 Aprende:
+
+Sincronização de estados
+
+Organização de inputs
+
+Arquitetura limpa
+
+9️⃣ Tower Defense
+
+Excelente pra lógica.
+
+🔧 Aprende:
+
+Pathfinding (A*)
+
+IA
+
+Sistema de ondas
+
+Performance (otimização em C)

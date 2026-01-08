@@ -1,0 +1,1 @@
+Este projeto visa ser utilizado unica e exclusivamente como estudo na área de programação e suas tecnologias em específico: Git e Github, programação em C para jogos(estarei utilizando C, pois foi a linguagem que estou aprendendo na faculdade e é a que tive mais foco durante o curso, utilizando ela durante o ano de 2025)
