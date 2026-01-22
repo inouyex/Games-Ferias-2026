@@ -1,20 +1,22 @@
+/*estou pesquisando ainda verificando se devo programar em C ou em C++ ou até mesmo em C#*/
+
 #include "raylib.h"
 
-int main(){
-    InitWindow(1280,720, "Cobra Run");
+int main(void)
+{
+    InitWindow(800, 600, "ScaleRush - Snake");
     SetTargetFPS(60);
 
-    while(!WindowShouldClose()){
+    while (!WindowShouldClose())
+    {
         BeginDrawing();
+        ClearBackground(RAYWHITE);
 
-            DrawText("Jogo ainda em desenvolvimento, aguarde por atualizações", 200, 360, 60, BLACK);
+        DrawText("Raylib 5.5 funcionando!", 190, 280, 20, BLACK);
 
-            ClearBackground(WHITE);
-        
         EndDrawing();
     }
 
-    CloseWindow()
-    
+    CloseWindow();
     return 0;
 }
